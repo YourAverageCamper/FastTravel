@@ -1,0 +1,53 @@
+# There are 9 choices, starting at 0 and ending at 8
+book:
+    title: '&eRule Book'
+    author: '&d&oNotch'
+    page:
+        1: 'Test'
+        2: 'Awesome'
+option:
+    0:
+        name: '*'
+        info: test1
+        item: 2;0
+        command: ''
+    1:
+        name: '*'
+        info: test2
+        item: 2;0
+        command: ''
+    2:
+        name: '*'
+        info: test3
+        item: 2;0
+        command: ''
+    3:
+        name: '*'
+        info: test4
+        item: 2;0
+        command: ''
+    4:
+        name: '*'
+        info: test5
+        item: 2;0
+        command: ''
+    5:
+        name: '*'
+        info: test6
+        item: 2;0
+        command: ''
+    6:
+        name: '*'
+        info: test7
+        item: 2;0
+        command: ''
+    7:
+        name: '*'
+        info: test8
+        item: 2;0
+        command: ''
+    8:
+        name: '*'
+        info: test9
+        item: 2;0
+        command: ''

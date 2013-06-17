@@ -1,0 +1,9 @@
+name: FastTravel
+description: Fast Travel
+main: me.zeus.FastTravel.FastTravel
+version: 1.0
+commands:
+  travel:
+    description: Gives fast travel compass
+    syntax: /fastravel
+    aliases: [ft,goto,warpto]
